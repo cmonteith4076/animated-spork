@@ -1,3 +1,3 @@
 # animated-spork
 
-Thi will contain my Python projects
+This will contain my Python projects
